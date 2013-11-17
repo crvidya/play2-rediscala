@@ -7,7 +7,7 @@ This is a plugin for Play 2.1, enabling support for [Rediscala](https://github.c
 Add the plugin to your dependencies
 
 ```scala
-"fr.njin" %% "play2-rediscala" % "1.0.0"
+"fr.njin" %% "play2-rediscala" % "1.0.1"
 ```
 
 And declare it in conf/play.plugins
